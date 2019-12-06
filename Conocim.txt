@@ -1,0 +1,10 @@
+Feedback form
+
+1. How was the session?
+   *Satisfactory *Not Satisfactory *Excellent
+2. Your Interest?
+   *Business Analyst *Tester *Developer *Devops Engineer *BI/DW 
+3. Would you like to work on project as intern
+4. How useful is this tool for u final year project
+
+Name, Emailid, Which Course, Contactno, Address
